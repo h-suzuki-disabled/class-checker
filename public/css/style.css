@@ -1,0 +1,25 @@
+td {
+    width: 100px;
+    height: 50px;
+}
+.absent {
+    background-color: silver;
+}
+.level0 {
+    background-color: red;
+}
+.level1 {
+    background-color: orange;
+}
+.level2 {
+    background-color: yellow;
+}
+.level3 {
+    background-color: lime;
+}
+.level4 {
+    background-color: aqua;
+}
+.level5 {
+    background-color: blue;
+}

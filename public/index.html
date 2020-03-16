@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        <title>Classroom Map</title>
+    </head>
+    <body>
+        <h1>MAX/C 進捗確認システム</h1>
+        <p>灰：不在，赤：未達成，橙：レベル1達成，黄：レベル2達成，緑：レベル3達成，水色：レベル4達成，青：レベル5達成</p>
+        <div>
+            <select id="classroom" tabindex="1">
+                <option value="A307" selected>A307</option>
+                <option value="A308">A308</option>
+                <option value="A201">A201</option>
+                <option value="A202">A202</option>
+            </select>
+            <input id="show" type="button" value="表示" tabindex="4">
+        </div>
+        <div>
+            <select id="prog" tabindex="2">
+                <option value="1" selected>プログラム実習1</option>
+                <option value="2">プログラム実習2</option>
+            </select>
+            <select id="section" tabindex="3">
+                <option value="0">第0課</option>
+                <option value="1" selected>第1課</option>
+                <option value="2">第2課</option>
+                <option value="3">第3課</option>
+                <option value="4">第4課</option>
+                <option value="5">第5課</option>
+                <option value="6">第6課</option>
+                <option value="7">第7課</option>
+                <option value="8">第8課</option>
+                <option value="9">第9課</option>
+                <option value="10">第10課</option>
+                <option value="11">第11課</option>
+                <option value="12">第12課</option>
+            </select>
+            <input id="update" type="button" value="更新" tabindex="5">
+        </div>
+        <div id="map">
+        </div>
+    </body>
+</html>

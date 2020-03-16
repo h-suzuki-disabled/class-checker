@@ -1,0 +1,1721 @@
+[
+    {
+        "id": 26,
+        "problemId": 3,
+        "prog": 1,
+        "section": 1,
+        "level": 1,
+        "type": "program",
+        "name": "exercise01:Emacsによるテキスト作成"
+    },
+    {
+        "id": 27,
+        "problemId": 2,
+        "prog": 1,
+        "section": 1,
+        "level": 1,
+        "type": "program",
+        "name": "exercise02:Emacsによるプログラムテキスト作成"
+    },
+    {
+        "id": 45,
+        "problemId": 4,
+        "prog": 1,
+        "section": 1,
+        "level": 1,
+        "type": "program",
+        "name": "exercise03:カーソル移動の練習"
+    },
+    {
+        "id": 46,
+        "problemId": 5,
+        "prog": 1,
+        "section": 1,
+        "level": 1,
+        "type": "program",
+        "name": "exercise04:カーソル移動の練習(続き)"
+    },
+    {
+        "id": 39,
+        "problemId": 6,
+        "prog": 1,
+        "section": 1,
+        "level": 2,
+        "type": "program",
+        "name": "exercise05:削除リング"
+    },
+    {
+        "id": 40,
+        "problemId": 7,
+        "prog": 1,
+        "section": 1,
+        "level": 2,
+        "type": "program",
+        "name": "exercise06:削除リング（続き）"
+    },
+    {
+        "id": 41,
+        "problemId": 8,
+        "prog": 1,
+        "section": 1,
+        "level": 3,
+        "type": "program",
+        "name": "exercise07:削除リング（その3）"
+    },
+    {
+        "id": 42,
+        "problemId": 9,
+        "prog": 1,
+        "section": 1,
+        "level": 3,
+        "type": "program",
+        "name": "exercise08:削除リング（その4）"
+    },
+    {
+        "id": 43,
+        "problemId": 10,
+        "prog": 1,
+        "section": 1,
+        "level": 4,
+        "type": "program",
+        "name": "exercise09:文字列サーチ"
+    },
+    {
+        "id": 44,
+        "problemId": 11,
+        "prog": 1,
+        "section": 1,
+        "level": 4,
+        "type": "program",
+        "name": "exercise10:文字列サーチ（続き）"
+    },
+    {
+        "id": 61,
+        "problemId": 30,
+        "prog": 1,
+        "section": 2,
+        "level": 1,
+        "type": "drill",
+        "name": "exercise01:コンパイルと実行"
+    },
+    {
+        "id": 62,
+        "problemId": 31,
+        "prog": 1,
+        "section": 2,
+        "level": 1,
+        "type": "drill",
+        "name": "exercise02:コンパイルと実行（続き）"
+    },
+    {
+        "id": 63,
+        "problemId": 15,
+        "prog": 1,
+        "section": 2,
+        "level": 2,
+        "type": "program",
+        "name": "exercise03:文字を書くプログラム"
+    },
+    {
+        "id": 64,
+        "problemId": 14,
+        "prog": 1,
+        "section": 2,
+        "level": 2,
+        "type": "program",
+        "name": "exercise04:文字を書くプログラム（続き）"
+    },
+    {
+        "id": 65,
+        "problemId": 17,
+        "prog": 1,
+        "section": 2,
+        "level": 3,
+        "type": "program",
+        "name": "exercise05:文法エラーの修正"
+    },
+    {
+        "id": 66,
+        "problemId": 16,
+        "prog": 1,
+        "section": 2,
+        "level": 3,
+        "type": "program",
+        "name": "exercise06:文法エラーの修正（続き）"
+    },
+    {
+        "id": 67,
+        "problemId": 18,
+        "prog": 1,
+        "section": 2,
+        "level": 4,
+        "type": "program",
+        "name": "exercise07:for文による繰り返し"
+    },
+    {
+        "id": 68,
+        "problemId": 19,
+        "prog": 1,
+        "section": 2,
+        "level": 4,
+        "type": "program",
+        "name": "exercise08:for文による繰り返し（続き）"
+    },
+    {
+        "id": 99,
+        "problemId": 13,
+        "prog": 1,
+        "section": 3,
+        "level": 1,
+        "type": "program",
+        "name": "exercise01:四則演算"
+    },
+    {
+        "id": 100,
+        "problemId": 20,
+        "prog": 1,
+        "section": 3,
+        "level": 1,
+        "type": "program",
+        "name": "exercise02:４則演算 （scanf による入力）"
+    },
+    {
+        "id": 101,
+        "problemId": 21,
+        "prog": 1,
+        "section": 3,
+        "level": 2,
+        "type": "program",
+        "name": "exercise03:べき乗の表"
+    },
+    {
+        "id": 102,
+        "problemId": 22,
+        "prog": 1,
+        "section": 3,
+        "level": 2,
+        "type": "program",
+        "name": "exercise04:べき乗の表（入力付）"
+    },
+    {
+        "id": 103,
+        "problemId": 23,
+        "prog": 1,
+        "section": 3,
+        "level": 3,
+        "type": "program",
+        "name": "exercise05:５個の数の和"
+    },
+    {
+        "id": 104,
+        "problemId": 24,
+        "prog": 1,
+        "section": 3,
+        "level": 3,
+        "type": "program",
+        "name": "exercise06:値の移動"
+    },
+    {
+        "id": 105,
+        "problemId": 25,
+        "prog": 1,
+        "section": 3,
+        "level": 4,
+        "type": "program",
+        "name": "exercise07:トランプのシャッフル"
+    },
+    {
+        "id": 140,
+        "problemId": 26,
+        "prog": 1,
+        "section": 4,
+        "level": 1,
+        "type": "program",
+        "name": "exercise01:大小判定（その１）"
+    },
+    {
+        "id": 141,
+        "problemId": 27,
+        "prog": 1,
+        "section": 4,
+        "level": 1,
+        "type": "program",
+        "name": "exercise02:大小判定（その２）"
+    },
+    {
+        "id": 142,
+        "problemId": 28,
+        "prog": 1,
+        "section": 4,
+        "level": 1,
+        "type": "program",
+        "name": "exercise03:３数の最大値"
+    },
+    {
+        "id": 143,
+        "problemId": 29,
+        "prog": 1,
+        "section": 4,
+        "level": 2,
+        "type": "program",
+        "name": "exercise04:７数の最大値"
+    },
+    {
+        "id": 144,
+        "problemId": 30,
+        "prog": 1,
+        "section": 4,
+        "level": 2,
+        "type": "program",
+        "name": "exercise05:カウント"
+    },
+    {
+        "id": 145,
+        "problemId": 31,
+        "prog": 1,
+        "section": 4,
+        "level": 3,
+        "type": "program",
+        "name": "exercise06:カウント（その２）"
+    },
+    {
+        "id": 146,
+        "problemId": 32,
+        "prog": 1,
+        "section": 4,
+        "level": 3,
+        "type": "program",
+        "name": "exercise07:入力の打ち切り"
+    },
+    {
+        "id": 147,
+        "problemId": 33,
+        "prog": 1,
+        "section": 4,
+        "level": 4,
+        "type": "program",
+        "name": "exercise08:７数の最大値と２番めに大きい値"
+    },
+    {
+        "id": 148,
+        "problemId": 34,
+        "prog": 1,
+        "section": 4,
+        "level": 5,
+        "type": "program",
+        "name": "exercise09:２進法表現の１の数"
+    },
+    {
+        "id": 149,
+        "problemId": 35,
+        "prog": 1,
+        "section": 4,
+        "level": 5,
+        "type": "program",
+        "name": "exercise10:血液型"
+    },
+    {
+        "id": 159,
+        "problemId": 36,
+        "prog": 1,
+        "section": 5,
+        "level": 1,
+        "type": "program",
+        "name": "exercise01:ファイルの整理"
+    },
+    {
+        "id": 186,
+        "problemId": 37,
+        "prog": 1,
+        "section": 6,
+        "level": 1,
+        "type": "program",
+        "name": "exercise01:1から100までの数"
+    },
+    {
+        "id": 187,
+        "problemId": 38,
+        "prog": 1,
+        "section": 6,
+        "level": 1,
+        "type": "program",
+        "name": "exercise02:mからnまでの数"
+    },
+    {
+        "id": 188,
+        "problemId": 39,
+        "prog": 1,
+        "section": 6,
+        "level": 1,
+        "type": "program",
+        "name": "exercise03:入力数値の総和"
+    },
+    {
+        "id": 197,
+        "problemId": 40,
+        "prog": 1,
+        "section": 6,
+        "level": 2,
+        "type": "program",
+        "name": "exercise04:入力数値の個数と総和"
+    },
+    {
+        "id": 198,
+        "problemId": 41,
+        "prog": 1,
+        "section": 6,
+        "level": 2,
+        "type": "program",
+        "name": "exercise05:最大値"
+    },
+    {
+        "id": 200,
+        "problemId": 42,
+        "prog": 1,
+        "section": 6,
+        "level": 3,
+        "type": "program",
+        "name": "exercise06:最大値とその番号"
+    },
+    {
+        "id": 209,
+        "problemId": 43,
+        "prog": 1,
+        "section": 6,
+        "level": 4,
+        "type": "program",
+        "name": "exercise07:素数"
+    },
+    {
+        "id": 211,
+        "problemId": 44,
+        "prog": 1,
+        "section": 6,
+        "level": 5,
+        "type": "program",
+        "name": "exercise08:素数(その2)"
+    },
+    {
+        "id": 212,
+        "problemId": 45,
+        "prog": 1,
+        "section": 6,
+        "level": 5,
+        "type": "program",
+        "name": "exercise09:商が小数となる割り算"
+    },
+    {
+        "id": 273,
+        "problemId": 46,
+        "prog": 1,
+        "section": 7,
+        "level": 1,
+        "type": "program",
+        "name": "exercise01:1から100までの数"
+    },
+    {
+        "id": 274,
+        "problemId": 47,
+        "prog": 1,
+        "section": 7,
+        "level": 1,
+        "type": "program",
+        "name": "exercise02:mからnまでの数"
+    },
+    {
+        "id": 275,
+        "problemId": 48,
+        "prog": 1,
+        "section": 7,
+        "level": 1,
+        "type": "program",
+        "name": "exercise03:入力数値の総和"
+    },
+    {
+        "id": 290,
+        "problemId": 49,
+        "prog": 1,
+        "section": 7,
+        "level": 2,
+        "type": "program",
+        "name": "exercise04:最大値とその番号"
+    },
+    {
+        "id": 291,
+        "problemId": 50,
+        "prog": 1,
+        "section": 7,
+        "level": 2,
+        "type": "program",
+        "name": "exercise05:数表 "
+    },
+    {
+        "id": 293,
+        "problemId": 51,
+        "prog": 1,
+        "section": 7,
+        "level": 3,
+        "type": "program",
+        "name": "exercise06:パターンの組み合わせ"
+    },
+    {
+        "id": 294,
+        "problemId": 52,
+        "prog": 1,
+        "section": 7,
+        "level": 3,
+        "type": "program",
+        "name": "exercise07:棒グラフ"
+    },
+    {
+        "id": 296,
+        "problemId": 53,
+        "prog": 1,
+        "section": 7,
+        "level": 4,
+        "type": "program",
+        "name": "exercise08:約数のリスト "
+    },
+    {
+        "id": 298,
+        "problemId": 54,
+        "prog": 1,
+        "section": 7,
+        "level": 5,
+        "type": "program",
+        "name": "exercise09:オイラー関数"
+    },
+    {
+        "id": 299,
+        "problemId": 55,
+        "prog": 1,
+        "section": 7,
+        "level": 5,
+        "type": "program",
+        "name": "exercise10:オイラーの定理"
+    },
+    {
+        "id": 315,
+        "problemId": 56,
+        "prog": 1,
+        "section": 8,
+        "level": 1,
+        "type": "program",
+        "name": "exercise01:逆順の出力"
+    },
+    {
+        "id": 316,
+        "problemId": 57,
+        "prog": 1,
+        "section": 8,
+        "level": 1,
+        "type": "program",
+        "name": "exercise02:平均以下"
+    },
+    {
+        "id": 322,
+        "problemId": 58,
+        "prog": 1,
+        "section": 8,
+        "level": 2,
+        "type": "program",
+        "name": "exercise03:成績処理"
+    },
+    {
+        "id": 327,
+        "problemId": 59,
+        "prog": 1,
+        "section": 8,
+        "level": 3,
+        "type": "program",
+        "name": "exercise04:最高得点者"
+    },
+    {
+        "id": 328,
+        "problemId": 60,
+        "prog": 1,
+        "section": 8,
+        "level": 3,
+        "type": "program",
+        "name": "exercise05:分別"
+    },
+    {
+        "id": 330,
+        "problemId": 61,
+        "prog": 1,
+        "section": 8,
+        "level": 4,
+        "type": "program",
+        "name": "exercise06:度数分布"
+    },
+    {
+        "id": 331,
+        "problemId": 62,
+        "prog": 1,
+        "section": 8,
+        "level": 4,
+        "type": "program",
+        "name": "exercise07:度数分布（その２）"
+    },
+    {
+        "id": 339,
+        "problemId": 63,
+        "prog": 1,
+        "section": 8,
+        "level": 5,
+        "type": "program",
+        "name": "exercise08:エラトステネスのふるい"
+    },
+    {
+        "id": 340,
+        "problemId": 64,
+        "prog": 1,
+        "section": 8,
+        "level": 5,
+        "type": "program",
+        "name": "exercise09:10進数加算"
+    },
+    {
+        "id": 341,
+        "problemId": 65,
+        "prog": 1,
+        "section": 8,
+        "level": 5,
+        "type": "program",
+        "name": "exercise10:10進数乗算"
+    },
+    {
+        "id": 354,
+        "problemId": 66,
+        "prog": 1,
+        "section": 9,
+        "level": 1,
+        "type": "program",
+        "name": "exercise01:2次元配列の入力と出力"
+    },
+    {
+        "id": 355,
+        "problemId": 67,
+        "prog": 1,
+        "section": 9,
+        "level": 1,
+        "type": "program",
+        "name": "exercise02:2次元配列での簡単な計算"
+    },
+    {
+        "id": 356,
+        "problemId": 68,
+        "prog": 1,
+        "section": 9,
+        "level": 1,
+        "type": "program",
+        "name": "exercise03::水平線の描画"
+    },
+    {
+        "id": 358,
+        "problemId": 69,
+        "prog": 1,
+        "section": 9,
+        "level": 2,
+        "type": "program",
+        "name": "exercise04:入力で指定された水平線分"
+    },
+    {
+        "id": 359,
+        "problemId": 70,
+        "prog": 1,
+        "section": 9,
+        "level": 2,
+        "type": "program",
+        "name": "exercise05:水平線分と垂直線分"
+    },
+    {
+        "id": 361,
+        "problemId": 71,
+        "prog": 1,
+        "section": 9,
+        "level": 3,
+        "type": "program",
+        "name": "exercise06:水平線分と垂直線分（はみ出し処理）"
+    },
+    {
+        "id": 363,
+        "problemId": 72,
+        "prog": 1,
+        "section": 9,
+        "level": 4,
+        "type": "program",
+        "name": "exercise07:傾きのある線分"
+    },
+    {
+        "id": 364,
+        "problemId": 73,
+        "prog": 1,
+        "section": 9,
+        "level": 4,
+        "type": "program",
+        "name": "exercise08:放物線"
+    },
+    {
+        "id": 366,
+        "problemId": 74,
+        "prog": 1,
+        "section": 9,
+        "level": 5,
+        "type": "program",
+        "name": "exercise09:円"
+    },
+    {
+        "id": 367,
+        "problemId": 75,
+        "prog": 1,
+        "section": 9,
+        "level": 5,
+        "type": "program",
+        "name": "exercise10:凸多角形の塗り潰し"
+    },
+    {
+        "id": 380,
+        "problemId": 76,
+        "prog": 1,
+        "section": 10,
+        "level": 1,
+        "type": "program",
+        "name": "exercise01:小さい方の値"
+    },
+    {
+        "id": 381,
+        "problemId": 77,
+        "prog": 1,
+        "section": 10,
+        "level": 1,
+        "type": "program",
+        "name": "exercise02:べき乗の表"
+    },
+    {
+        "id": 383,
+        "problemId": 78,
+        "prog": 1,
+        "section": 10,
+        "level": 2,
+        "type": "program",
+        "name": "exercise03:階乗"
+    },
+    {
+        "id": 384,
+        "problemId": 79,
+        "prog": 1,
+        "section": 10,
+        "level": 2,
+        "type": "program",
+        "name": "exercise04:組み合わせ数"
+    },
+    {
+        "id": 386,
+        "problemId": 80,
+        "prog": 1,
+        "section": 10,
+        "level": 3,
+        "type": "program",
+        "name": "exercise05:1000までの素数"
+    },
+    {
+        "id": 387,
+        "problemId": 81,
+        "prog": 1,
+        "section": 10,
+        "level": 3,
+        "type": "program",
+        "name": "exercise06:素数の分布"
+    },
+    {
+        "id": 389,
+        "problemId": 82,
+        "prog": 1,
+        "section": 10,
+        "level": 4,
+        "type": "program",
+        "name": "exercise07:最大公約数と最小公倍数"
+    },
+    {
+        "id": 391,
+        "problemId": 83,
+        "prog": 1,
+        "section": 10,
+        "level": 5,
+        "type": "program",
+        "name": "exercise08:一般の線分の描画"
+    },
+    {
+        "id": 392,
+        "problemId": 84,
+        "prog": 1,
+        "section": 10,
+        "level": 5,
+        "type": "program",
+        "name": "exercise09:組み合わせ数再訪"
+    },
+    {
+        "id": 393,
+        "problemId": 85,
+        "prog": 1,
+        "section": 10,
+        "level": 5,
+        "type": "program",
+        "name": "exercise10:カーマイケル数"
+    },
+    {
+        "id": 400,
+        "problemId": 86,
+        "prog": 1,
+        "section": 11,
+        "level": 1,
+        "type": "program",
+        "name": "exercise01:文字による長方形描画"
+    },
+    {
+        "id": 401,
+        "problemId": 87,
+        "prog": 1,
+        "section": 11,
+        "level": 1,
+        "type": "program",
+        "name": "exercise02:中抜き長方形"
+    },
+    {
+        "id": 406,
+        "problemId": 88,
+        "prog": 1,
+        "section": 11,
+        "level": 2,
+        "type": "program",
+        "name": "exercise03:碁盤"
+    },
+    {
+        "id": 407,
+        "problemId": 89,
+        "prog": 1,
+        "section": 11,
+        "level": 2,
+        "type": "program",
+        "name": "exercise04:チェス盤"
+    },
+    {
+        "id": 409,
+        "problemId": 90,
+        "prog": 1,
+        "section": 11,
+        "level": 3,
+        "type": "program",
+        "name": "exercise05:複数の碁盤"
+    },
+    {
+        "id": 411,
+        "problemId": 91,
+        "prog": 1,
+        "section": 11,
+        "level": 4,
+        "type": "program",
+        "name": "exercise06:複数のチェス盤"
+    },
+    {
+        "id": 413,
+        "problemId": 92,
+        "prog": 1,
+        "section": 11,
+        "level": 5,
+        "type": "program",
+        "name": "exercise07:石の置かれた碁盤"
+    },
+    {
+        "id": 418,
+        "problemId": 173,
+        "prog": 1,
+        "section": 12,
+        "level": 1,
+        "type": "program",
+        "name": "exercise01:入力数値の総和"
+    },
+    {
+        "id": 419,
+        "problemId": 174,
+        "prog": 1,
+        "section": 12,
+        "level": 1,
+        "type": "program",
+        "name": "exercise02:ベクトルの加算"
+    },
+    {
+        "id": 421,
+        "problemId": 175,
+        "prog": 1,
+        "section": 12,
+        "level": 2,
+        "type": "program",
+        "name": "exercise03:最大値とその番号"
+    },
+    {
+        "id": 423,
+        "problemId": 176,
+        "prog": 1,
+        "section": 12,
+        "level": 3,
+        "type": "program",
+        "name": "exercise04:画像の回転と反転"
+    },
+    {
+        "id": 425,
+        "problemId": 177,
+        "prog": 1,
+        "section": 12,
+        "level": 4,
+        "type": "program",
+        "name": "exercise05:フィボナッチ数"
+    },
+    {
+        "id": 427,
+        "problemId": 178,
+        "prog": 1,
+        "section": 12,
+        "level": 5,
+        "type": "program",
+        "name": "exercise06:循環小数"
+    },
+    {
+        "id": 438,
+        "problemId": 76,
+        "prog": 2,
+        "section": 0,
+        "level": 1,
+        "type": "program",
+        "name": "exercise01:小さい方の値"
+    },
+    {
+        "id": 439,
+        "problemId": 86,
+        "prog": 2,
+        "section": 0,
+        "level": 1,
+        "type": "program",
+        "name": "exercise02:文字による長方形描画"
+    },
+    {
+        "id": 440,
+        "problemId": 209,
+        "prog": 2,
+        "section": 0,
+        "level": 1,
+        "type": "program",
+        "name": "exercise03:配列要素の総和"
+    },
+    {
+        "id": 442,
+        "problemId": 210,
+        "prog": 2,
+        "section": 0,
+        "level": 2,
+        "type": "program",
+        "name": "exercise04:配列要素の最大値"
+    },
+    {
+        "id": 444,
+        "problemId": 211,
+        "prog": 2,
+        "section": 0,
+        "level": 3,
+        "type": "program",
+        "name": "exercise05:値の出現回数"
+    },
+    {
+        "id": 446,
+        "problemId": 212,
+        "prog": 2,
+        "section": 0,
+        "level": 4,
+        "type": "program",
+        "name": "exercise06:最頻要素"
+    },
+    {
+        "id": 448,
+        "problemId": 213,
+        "prog": 2,
+        "section": 0,
+        "level": 5,
+        "type": "program",
+        "name": "exercise07:点集合の直径"
+    },
+    {
+        "id": 449,
+        "problemId": 214,
+        "prog": 2,
+        "section": 0,
+        "level": 5,
+        "type": "program",
+        "name": "exercise08:点集合の半径"
+    },
+    {
+        "id": 458,
+        "problemId": 215,
+        "prog": 2,
+        "section": 1,
+        "level": 1,
+        "type": "program",
+        "name": "exercise01:マクロの展開 その1"
+    },
+    {
+        "id": 459,
+        "problemId": 216,
+        "prog": 2,
+        "section": 1,
+        "level": 1,
+        "type": "program",
+        "name": "exercise02:マクロの展開 その2"
+    },
+    {
+        "id": 460,
+        "problemId": 217,
+        "prog": 2,
+        "section": 1,
+        "level": 1,
+        "type": "program",
+        "name": "exercise03:掛け算の表"
+    },
+    {
+        "id": 462,
+        "problemId": 218,
+        "prog": 2,
+        "section": 1,
+        "level": 2,
+        "type": "program",
+        "name": "exercise04:試験の平均点"
+    },
+    {
+        "id": 463,
+        "problemId": 219,
+        "prog": 2,
+        "section": 1,
+        "level": 2,
+        "type": "program",
+        "name": "exercise05:２科目の試験の平均点"
+    },
+    {
+        "id": 465,
+        "problemId": 220,
+        "prog": 2,
+        "section": 1,
+        "level": 3,
+        "type": "program",
+        "name": "exercise06:複数科目試験の科目別平均点"
+    },
+    {
+        "id": 467,
+        "problemId": 221,
+        "prog": 2,
+        "section": 1,
+        "level": 4,
+        "type": "program",
+        "name": "exercise07:最大値の添え字"
+    },
+    {
+        "id": 468,
+        "problemId": 231,
+        "prog": 2,
+        "section": 1,
+        "level": 4,
+        "type": "program",
+        "name": "exercise08:整数配列の出力"
+    },
+    {
+        "id": 470,
+        "problemId": 232,
+        "prog": 2,
+        "section": 1,
+        "level": 5,
+        "type": "program",
+        "name": "exercise09:最長連続昇順部分列"
+    },
+    {
+        "id": 471,
+        "problemId": 233,
+        "prog": 2,
+        "section": 1,
+        "level": 5,
+        "type": "program",
+        "name": "exercise10:最大和連続部分配列"
+    },
+    {
+        "id": 489,
+        "problemId": 222,
+        "prog": 2,
+        "section": 2,
+        "level": 1,
+        "type": "program",
+        "name": "exercise01:四則演算"
+    },
+    {
+        "id": 490,
+        "problemId": 223,
+        "prog": 2,
+        "section": 2,
+        "level": 1,
+        "type": "program",
+        "name": "exercise02:n個の数値の平均"
+    },
+    {
+        "id": 491,
+        "problemId": 224,
+        "prog": 2,
+        "section": 2,
+        "level": 1,
+        "type": "program",
+        "name": "exercise03:論理値（１）"
+    },
+    {
+        "id": 493,
+        "problemId": 225,
+        "prog": 2,
+        "section": 2,
+        "level": 2,
+        "type": "program",
+        "name": "exercise04:平均と最も近い値"
+    },
+    {
+        "id": 494,
+        "problemId": 226,
+        "prog": 2,
+        "section": 2,
+        "level": 2,
+        "type": "program",
+        "name": "exercise05:平均値とそれに最も近い値：関数版"
+    },
+    {
+        "id": 496,
+        "problemId": 227,
+        "prog": 2,
+        "section": 2,
+        "level": 3,
+        "type": "program",
+        "name": "exercise06:論理値（２）"
+    },
+    {
+        "id": 497,
+        "problemId": 228,
+        "prog": 2,
+        "section": 2,
+        "level": 3,
+        "type": "program",
+        "name": "exercise07:多項式の値"
+    },
+    {
+        "id": 499,
+        "problemId": 229,
+        "prog": 2,
+        "section": 2,
+        "level": 4,
+        "type": "program",
+        "name": "exercise08:n次方程式の解"
+    },
+    {
+        "id": 501,
+        "problemId": 230,
+        "prog": 2,
+        "section": 2,
+        "level": 5,
+        "type": "program",
+        "name": "exercise09:n次方程式の解(２分法)"
+    },
+    {
+        "id": 517,
+        "problemId": 239,
+        "prog": 2,
+        "section": 3,
+        "level": 1,
+        "type": "program",
+        "name": "exercise01:文字コードの表"
+    },
+    {
+        "id": 518,
+        "problemId": 240,
+        "prog": 2,
+        "section": 3,
+        "level": 1,
+        "type": "program",
+        "name": "exercise02:文字のカウント（１）"
+    },
+    {
+        "id": 519,
+        "problemId": 241,
+        "prog": 2,
+        "section": 3,
+        "level": 1,
+        "type": "program",
+        "name": "exercise03:文字のカウント（２）"
+    },
+    {
+        "id": 520,
+        "problemId": 242,
+        "prog": 2,
+        "section": 3,
+        "level": 1,
+        "type": "program",
+        "name": "exercise04:文字列の長さ"
+    },
+    {
+        "id": 522,
+        "problemId": 243,
+        "prog": 2,
+        "section": 3,
+        "level": 2,
+        "type": "program",
+        "name": "exercise05:文字列の出力"
+    },
+    {
+        "id": 523,
+        "problemId": 244,
+        "prog": 2,
+        "section": 3,
+        "level": 2,
+        "type": "program",
+        "name": "exercise06:文字列のコピー"
+    },
+    {
+        "id": 525,
+        "problemId": 245,
+        "prog": 2,
+        "section": 3,
+        "level": 3,
+        "type": "program",
+        "name": "exercise07:文字の検索（１）"
+    },
+    {
+        "id": 527,
+        "problemId": 246,
+        "prog": 2,
+        "section": 3,
+        "level": 4,
+        "type": "program",
+        "name": "exercise08:文字の検索（２）"
+    },
+    {
+        "id": 528,
+        "problemId": 247,
+        "prog": 2,
+        "section": 3,
+        "level": 4,
+        "type": "program",
+        "name": "exercise09:文字の削除"
+    },
+    {
+        "id": 530,
+        "problemId": 248,
+        "prog": 2,
+        "section": 3,
+        "level": 5,
+        "type": "program",
+        "name": "exercise10:文字を避ける部分文字列"
+    },
+    {
+        "id": 538,
+        "problemId": 250,
+        "prog": 2,
+        "section": 4,
+        "level": 1,
+        "type": "program",
+        "name": "exercise01:文字列の変換"
+    },
+    {
+        "id": 539,
+        "problemId": 251,
+        "prog": 2,
+        "section": 4,
+        "level": 1,
+        "type": "program",
+        "name": "exercise02:文字列の連結"
+    },
+    {
+        "id": 540,
+        "problemId": 252,
+        "prog": 2,
+        "section": 4,
+        "level": 1,
+        "type": "program",
+        "name": "exercise03:文字列の比較"
+    },
+    {
+        "id": 542,
+        "problemId": 253,
+        "prog": 2,
+        "section": 4,
+        "level": 2,
+        "type": "program",
+        "name": "exercise04:文字列の逆転"
+    },
+    {
+        "id": 544,
+        "problemId": 254,
+        "prog": 2,
+        "section": 4,
+        "level": 3,
+        "type": "program",
+        "name": "exercise05:回文"
+    },
+    {
+        "id": 545,
+        "problemId": 255,
+        "prog": 2,
+        "section": 4,
+        "level": 3,
+        "type": "program",
+        "name": "exercise06:パターンの検索（１）"
+    },
+    {
+        "id": 547,
+        "problemId": 256,
+        "prog": 2,
+        "section": 4,
+        "level": 4,
+        "type": "program",
+        "name": "exercise07:パターンの検索（２）"
+    },
+    {
+        "id": 548,
+        "problemId": 257,
+        "prog": 2,
+        "section": 4,
+        "level": 4,
+        "type": "program",
+        "name": "exercise08:パターンの削除"
+    },
+    {
+        "id": 562,
+        "problemId": 258,
+        "prog": 2,
+        "section": 5,
+        "level": 1,
+        "type": "program",
+        "name": "exercise01:点の入出力（１）"
+    },
+    {
+        "id": 563,
+        "problemId": 259,
+        "prog": 2,
+        "section": 5,
+        "level": 1,
+        "type": "program",
+        "name": "exercise02:点の入出力（２）"
+    },
+    {
+        "id": 564,
+        "problemId": 260,
+        "prog": 2,
+        "section": 5,
+        "level": 1,
+        "type": "program",
+        "name": "exercise03:２点の中点"
+    },
+    {
+        "id": 566,
+        "problemId": 261,
+        "prog": 2,
+        "section": 5,
+        "level": 2,
+        "type": "program",
+        "name": "exercise04:学生のデータの入出力"
+    },
+    {
+        "id": 567,
+        "problemId": 262,
+        "prog": 2,
+        "section": 5,
+        "level": 2,
+        "type": "program",
+        "name": "exercise05:名前入りの学生データの入出力"
+    },
+    {
+        "id": 569,
+        "problemId": 263,
+        "prog": 2,
+        "section": 5,
+        "level": 3,
+        "type": "program",
+        "name": "exercise06:最高得点者"
+    },
+    {
+        "id": 571,
+        "problemId": 264,
+        "prog": 2,
+        "section": 5,
+        "level": 4,
+        "type": "program",
+        "name": "exercise07:すべての最高得点者"
+    },
+    {
+        "id": 572,
+        "problemId": 265,
+        "prog": 2,
+        "section": 5,
+        "level": 4,
+        "type": "program",
+        "name": "exercise08:複数科目のデータ"
+    },
+    {
+        "id": 573,
+        "problemId": 266,
+        "prog": 2,
+        "section": 5,
+        "level": 4,
+        "type": "program",
+        "name": "exercise09:すべての最高合計得点者"
+    },
+    {
+        "id": 588,
+        "problemId": 267,
+        "prog": 2,
+        "section": 6,
+        "level": 1,
+        "type": "program",
+        "name": "exercise01:変数の番地と値"
+    },
+    {
+        "id": 589,
+        "problemId": 268,
+        "prog": 2,
+        "section": 6,
+        "level": 1,
+        "type": "program",
+        "name": "exercise02:ポインタ変数"
+    },
+    {
+        "id": 590,
+        "problemId": 269,
+        "prog": 2,
+        "section": 6,
+        "level": 1,
+        "type": "program",
+        "name": "exercise03:ポインタ引数"
+    },
+    {
+        "id": 591,
+        "problemId": 270,
+        "prog": 2,
+        "section": 6,
+        "level": 1,
+        "type": "program",
+        "name": "exercise04:変数の値を交換する関数"
+    },
+    {
+        "id": 592,
+        "problemId": 271,
+        "prog": 2,
+        "section": 6,
+        "level": 1,
+        "type": "program",
+        "name": "exercise05:構造体へのポインタ"
+    },
+    {
+        "id": 594,
+        "problemId": 272,
+        "prog": 2,
+        "section": 6,
+        "level": 2,
+        "type": "program",
+        "name": "exercise06:日付けの出力"
+    },
+    {
+        "id": 595,
+        "problemId": 273,
+        "prog": 2,
+        "section": 6,
+        "level": 2,
+        "type": "program",
+        "name": "exercise07:年越し"
+    },
+    {
+        "id": 597,
+        "problemId": 274,
+        "prog": 2,
+        "section": 6,
+        "level": 3,
+        "type": "program",
+        "name": "exercise08:翌月"
+    },
+    {
+        "id": 599,
+        "problemId": 275,
+        "prog": 2,
+        "section": 6,
+        "level": 4,
+        "type": "program",
+        "name": "exercise09:翌日"
+    },
+    {
+        "id": 608,
+        "problemId": 276,
+        "prog": 2,
+        "section": 7,
+        "level": 1,
+        "type": "program",
+        "name": "exercise01:家系図（1）"
+    },
+    {
+        "id": 609,
+        "problemId": 277,
+        "prog": 2,
+        "section": 7,
+        "level": 1,
+        "type": "program",
+        "name": "exercise02:家系図（2）"
+    },
+    {
+        "id": 610,
+        "problemId": 278,
+        "prog": 2,
+        "section": 7,
+        "level": 1,
+        "type": "program",
+        "name": "exercise03:家系図（3）"
+    },
+    {
+        "id": 611,
+        "problemId": 279,
+        "prog": 2,
+        "section": 7,
+        "level": 1,
+        "type": "program",
+        "name": "exercise04:家系図（4）"
+    },
+    {
+        "id": 613,
+        "problemId": 280,
+        "prog": 2,
+        "section": 7,
+        "level": 2,
+        "type": "program",
+        "name": "exercise05:家系図（5）"
+    },
+    {
+        "id": 614,
+        "problemId": 281,
+        "prog": 2,
+        "section": 7,
+        "level": 2,
+        "type": "program",
+        "name": "exercise06:家系図（6）"
+    },
+    {
+        "id": 616,
+        "problemId": 282,
+        "prog": 2,
+        "section": 7,
+        "level": 3,
+        "type": "program",
+        "name": "exercise07:家系図（7）"
+    },
+    {
+        "id": 618,
+        "problemId": 283,
+        "prog": 2,
+        "section": 7,
+        "level": 4,
+        "type": "program",
+        "name": "exercise08:家系図（8）"
+    },
+    {
+        "id": 620,
+        "problemId": 284,
+        "prog": 2,
+        "section": 7,
+        "level": 5,
+        "type": "program",
+        "name": "exercise09:家系図（9）"
+    },
+    {
+        "id": 632,
+        "problemId": 294,
+        "prog": 2,
+        "section": 8,
+        "level": 1,
+        "type": "program",
+        "name": "exercise01:連結リスト"
+    },
+    {
+        "id": 634,
+        "problemId": 295,
+        "prog": 2,
+        "section": 8,
+        "level": 2,
+        "type": "program",
+        "name": "exercise02:連結リストの連結（１）"
+    },
+    {
+        "id": 636,
+        "problemId": 296,
+        "prog": 2,
+        "section": 8,
+        "level": 3,
+        "type": "program",
+        "name": "exercise03:連結リストからの削除（１）"
+    },
+    {
+        "id": 637,
+        "problemId": 297,
+        "prog": 2,
+        "section": 8,
+        "level": 3,
+        "type": "program",
+        "name": "exercise04:連結リストからの削除（２）"
+    },
+    {
+        "id": 639,
+        "problemId": 298,
+        "prog": 2,
+        "section": 8,
+        "level": 4,
+        "type": "program",
+        "name": "exercise05:連結リストの連結（２）"
+    },
+    {
+        "id": 641,
+        "problemId": 299,
+        "prog": 2,
+        "section": 8,
+        "level": 5,
+        "type": "program",
+        "name": "exercise06:連結リストへの挿入"
+    },
+    {
+        "id": 652,
+        "problemId": 300,
+        "prog": 2,
+        "section": 9,
+        "level": 1,
+        "type": "program",
+        "name": "exercise01:配列のクリア"
+    },
+    {
+        "id": 653,
+        "problemId": 301,
+        "prog": 2,
+        "section": 9,
+        "level": 1,
+        "type": "program",
+        "name": "exercise02:配列のコピー"
+    },
+    {
+        "id": 654,
+        "problemId": 302,
+        "prog": 2,
+        "section": 9,
+        "level": 1,
+        "type": "program",
+        "name": "exercise03:文字列の長さ"
+    },
+    {
+        "id": 656,
+        "problemId": 303,
+        "prog": 2,
+        "section": 9,
+        "level": 2,
+        "type": "program",
+        "name": "exercise04:文字列の中の空白の個数"
+    },
+    {
+        "id": 658,
+        "problemId": 304,
+        "prog": 2,
+        "section": 9,
+        "level": 3,
+        "type": "program",
+        "name": "exercise05:文字列の逆転"
+    },
+    {
+        "id": 660,
+        "problemId": 305,
+        "prog": 2,
+        "section": 9,
+        "level": 4,
+        "type": "program",
+        "name": "exercise06:文字列の逆転（メモリの動的確保）"
+    },
+    {
+        "id": 661,
+        "problemId": 306,
+        "prog": 2,
+        "section": 9,
+        "level": 4,
+        "type": "program",
+        "name": "exercise07:文字列の連結（メモリの動的確保）"
+    },
+    {
+        "id": 669,
+        "problemId": 307,
+        "prog": 2,
+        "section": 10,
+        "level": 1,
+        "type": "program",
+        "name": "exercise01:再帰動作の確認"
+    },
+    {
+        "id": 670,
+        "problemId": 308,
+        "prog": 2,
+        "section": 10,
+        "level": 1,
+        "type": "program",
+        "name": "exercise02:往復"
+    },
+    {
+        "id": 671,
+        "problemId": 309,
+        "prog": 2,
+        "section": 10,
+        "level": 1,
+        "type": "program",
+        "name": "exercise03:値を持った関数の再帰"
+    },
+    {
+        "id": 676,
+        "problemId": 310,
+        "prog": 2,
+        "section": 10,
+        "level": 2,
+        "type": "program",
+        "name": "exercise04:括弧の入れ子"
+    },
+    {
+        "id": 678,
+        "problemId": 311,
+        "prog": 2,
+        "section": 10,
+        "level": 3,
+        "type": "program",
+        "name": "exercise05:r進数"
+    },
+    {
+        "id": 680,
+        "problemId": 313,
+        "prog": 2,
+        "section": 10,
+        "level": 4,
+        "type": "program",
+        "name": "exercise06:連結リストの連結（再帰による非破壊版）"
+    },
+    {
+        "id": 681,
+        "problemId": 314,
+        "prog": 2,
+        "section": 10,
+        "level": 4,
+        "type": "program",
+        "name": "exercise07:家系図のなかの名前"
+    },
+    {
+        "id": 683,
+        "problemId": 315,
+        "prog": 2,
+        "section": 10,
+        "level": 5,
+        "type": "program",
+        "name": "exercise08:家系図のなかの名前（続柄識別子付）"
+    }
+]
